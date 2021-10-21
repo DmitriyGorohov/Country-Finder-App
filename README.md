@@ -4,3 +4,4 @@
 - `axios`
 - `react-icons`
 - `styled-components`
+- `react-select`
