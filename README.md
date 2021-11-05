@@ -1,6 +1,7 @@
 ### API Used
 
-[The Open Database APIs](https://restcountries.com/)
+- [Ссылка на проект](https://react-flags.web.app)
+- [The Open Database APIs](https://restcountries.com/)
 
 ### Libraries used
 
